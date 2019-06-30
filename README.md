@@ -14,4 +14,9 @@ The tool is very useful for pdfs because uses Amazon algorithm to convert from p
 
 ## How to use 
 
+* Put send_to_kindle.py and files in a folder, the files inside this folder will be sent. It doesn´t matter how many files are in that folder because the tool can split files in multiple mails.
+
+**Command:**
+```
 python send_to_kindle
+```
